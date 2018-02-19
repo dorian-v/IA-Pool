@@ -2,7 +2,7 @@
 Piscine Intelligence Artificielle / Apprentissage Automatique à Epitech Paris, organisé par P.O.C.
 
 Sujets réalisés par:
-- Florian Bacho (https://github.com/Florian-BACHO);
+- Florian Bacho;
 - Dorian Voravong
 
 ## Sommaire
